@@ -1,0 +1,10 @@
+<QrReader 
+delay={}
+styles={}
+onError={}
+onScan={}
+></QrReader>
+
+Let’s break down the difference between those two. Basically that both rem and em are scalable and relative units of size, but with em, 
+the unit is relative to the font size of its parent element, while the rem unit is only relative to the root font size of the HTML document. 
+The “r” in rem stands for “root”. 
